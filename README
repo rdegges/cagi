@@ -1,2 +1,21 @@
-cAGI is a fully compliant Asterisk 1.6 AGI library in C.
-It is fully functional and ready for production usage.
+         _    ____ ___
+  ___   / \  / ___|_ _|
+ / __| / _ \| |  _ | |
+| (__ / ___ \ |_| || |  An Asterisk 1.6 AGI library in C.
+ \___/_/   \_\____|___|
+
+@author:	Randall Degges
+@email:		rdegges@gmail.com
+@date:		12-19-2009
+@license:	GPLv3 (http://www.gnu.org/licenses/gpl-3.0.txt)
+
+cAGI was originally part of the WildPBX project. I've decided to release each component as a
+separate project to encourage more rapid development by separating the pieces out. WildPBX,
+instead of containing all of the libraries which make it up, and becoming a large monolithic
+project, will instead become more flexible and modular as a result.
+
+So I present to you, cAGI, the only fully compliant Asterisk 1.6 AGI library for C
+developers.
+
+This library is ready for production usage. I've been using it in production for over 5
+months.
